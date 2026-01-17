@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Rohri to Sukkur IBA University (Route 01)",
+        "description": "Route from Rohri to Sukkur IBA University with multiple pickup points",
+        "stops": [
+            "Rohri",
+            "Navy Park",
+            "Old Sukkur",
+            "Shalimar",
+            "Local Board",
+            "Dolphin",
+            "Ayub Gate",
+            "Gurdwara Chowk",
+            "Police Line",
+            "Officer Club",
+            "Sukkur IBA University"
+        ],
+        "duration": "45 minutes",
+        "frequency": "Multiple shifts daily",
+        "fare": "Free for students"
+    },
+    {
+        "id": 2,
+        "name": "Qasim Park to Sukkur IBA University (Route 02)",
+        "description": "Route from Qasim Park to Sukkur IBA University via multiple stops",
+        "stops": [
+            "Qasim Park",
+            "Dua Chowk",
+            "Emmys Pizza",
+            "Allah Wali Masjid",
+            "Bhutta Road",
+            "Lanch Mor",
+            "Hira Hospital",
+            "Hockey Ground",
+            "High Court",
+            "Benazir Park",
+            "Military Road",
+            "Airport Road",
+            "100 ft. Road",
+            "Society Hostels",
+            "Physical Hostel",
+            "Sukkur IBA University"
+        ],
+        "duration": "40 minutes",
+        "frequency": "Multiple shifts daily",
+        "fare": "Free for students",
+        "note": "100ft Road Pick only for Girls"
+    },
+    {
+        "id": 3,
+        "name": "City Point to Sukkur IBA University (Route 03)",
+        "description": "Direct route from City Point to Sukkur IBA University",
+        "stops": [
+            "City Point",
+            "NICVD Hospital",
+            "Township",
+            "Sukkur IBA University"
+        ],
+        "duration": "20 minutes",
+        "frequency": "Multiple shifts daily",
+        "fare": "Free for students"
+    }
+]

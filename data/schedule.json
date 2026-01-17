@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "route": "Rohri to Sukkur IBA University (Route 01)",
+        "shift": "1st Shift (Morning)",
+        "departure": "08:00",
+        "arrival": "08:35",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 25
+    },
+    {
+        "id": 2,
+        "route": "Qasim Park to Sukkur IBA University (Route 02)",
+        "shift": "1st Shift (Morning)",
+        "departure": "08:10",
+        "arrival": "08:30",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 30
+    },
+    {
+        "id": 3,
+        "route": "City Point to Sukkur IBA University (Route 03)",
+        "shift": "1st Shift (Morning)",
+        "departure": "08:20",
+        "arrival": "08:30",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 28
+    },
+    {
+        "id": 4,
+        "route": "Rohri to Sukkur IBA University (Route 01)",
+        "shift": "2nd Shift (Afternoon)",
+        "departure": "11:00",
+        "arrival": "11:30",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 20
+    },
+    {
+        "id": 5,
+        "route": "Qasim Park to Sukkur IBA University (Route 02)",
+        "shift": "2nd Shift (Afternoon)",
+        "departure": "11:10",
+        "arrival": "11:30",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 22
+    },
+    {
+        "id": 6,
+        "route": "Rohri to Sukkur IBA University (Route 01)",
+        "shift": "3rd Shift (Evening)",
+        "departure": "15:30",
+        "arrival": "16:05",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 18
+    },
+    {
+        "id": 7,
+        "route": "Qasim Park to Sukkur IBA University (Route 02)",
+        "shift": "3rd Shift (Evening)",
+        "departure": "15:40",
+        "arrival": "16:00",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 15
+    },
+    {
+        "id": 8,
+        "route": "Sukkur IBA University to Rohri (Route 01)",
+        "shift": "1st Shift Return",
+        "departure": "14:30",
+        "arrival": "15:15",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 32
+    },
+    {
+        "id": 9,
+        "route": "Sukkur IBA University to Qasim Park (Route 02)",
+        "shift": "1st Shift Return",
+        "departure": "14:30",
+        "arrival": "15:10",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 35
+    },
+    {
+        "id": 10,
+        "route": "Sukkur IBA University to City Point (Route 03)",
+        "shift": "1st Shift Return",
+        "departure": "14:30",
+        "arrival": "14:50",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 30
+    },
+    {
+        "id": 11,
+        "route": "Sukkur IBA University to Rohri (Route 01)",
+        "shift": "2nd Shift Return",
+        "departure": "17:15",
+        "arrival": "18:00",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 25
+    },
+    {
+        "id": 12,
+        "route": "Sukkur IBA University to Qasim Park (Route 02)",
+        "shift": "2nd Shift Return",
+        "departure": "17:15",
+        "arrival": "17:55",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 28
+    },
+    {
+        "id": 13,
+        "route": "Sukkur IBA University to Rohri (Route 01)",
+        "shift": "3rd Shift Return",
+        "departure": "20:10",
+        "arrival": "20:55",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 20
+    },
+    {
+        "id": 14,
+        "route": "Sukkur IBA University to Qasim Park (Route 02)",
+        "shift": "3rd Shift Return",
+        "departure": "20:10",
+        "arrival": "20:50",
+        "status": "on-time",
+        "capacity": 40,
+        "available": 22
+    }
+]
